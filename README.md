@@ -14,7 +14,9 @@ or for snapshots:
 
 To deploy a third party jar, for example Factions:
 
-    mvn deploy:deploy-file -DgroupId=massivecraft -DartifactId=factions -Dversion=1.7.6pre -Dpackaging=jar -Dfile=factions-1.7.6pre.jar -DrepositoryId=mcw-repo -Durl=file:~/mcw-mvn-repo/releases
+    mvn deploy:deploy-file -DgroupId=massivecraft -DartifactId=factions 
+        -Dversion=1.7.6pre -Dpackaging=jar -Dfile=factions-1.7.6pre.jar 
+        -DrepositoryId=mcw-repo -Durl=file:~/mcw-mvn-repo/releases
 
 In all cases, paths need to be adjusted.
 Then the updates need to be pushed :)
