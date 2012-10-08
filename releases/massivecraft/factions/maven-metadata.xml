@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>massivecraft</groupId>
+  <artifactId>factions</artifactId>
+  <versioning>
+    <release>1.7.7_beta</release>
+    <versions>
+      <version>1.7.6pre</version>
+      <version>1.6.9.1</version>
+      <version>1.7.7_beta</version>
+    </versions>
+    <lastUpdated>20121008092315</lastUpdated>
+  </versioning>
+</metadata>
